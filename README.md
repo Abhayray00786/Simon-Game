@@ -1,6 +1,9 @@
 # Simon-Game
 https://abhayray00786.github.io/Simon-Game/
 
+**OBEJCTIVE OF THE GAME**
+Correctly repeat a longer and longer sequence of signals.
+
 **STEPS TO PLAY**
 
 Press any key to START. 
