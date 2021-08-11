@@ -1,6 +1,5 @@
 # Simon-Game
-Have to correctly repeat a longer and longer sequence of signals.
-click here : https://abhayray00786.github.io/Simon-Game/
+https://abhayray00786.github.io/Simon-Game/
 
 **STEPS TO PLAY**
 
